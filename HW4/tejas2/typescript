@@ -1,0 +1,89 @@
+Script started on Mon 20 Nov 2017 08:44:17 PM PST
+tejas2@ada:~/CS201/HW4$ mae[Kke doMath
+gcc -g -Wall -Og doMath.c -o doMath
+tejas2@ada:~/CS201/HW4$ d[K./doMath 0x15 0XFFFF 32 22
+Choose an option from the menu below:
+
+0 Exit
+1 Addition
+2 Subtraction
+3 Multiplication
+4 Division
+5 Modulo
+6 Reverse Input
+
+1
+The sum of all the arguments is : 65610
+tejas2@ada:~/CS201/HW4$ ./DoMath[K[K[K[K[K[KdoMath 0 5
+Choose an option from the menu below:
+
+0 Exit
+1 Addition
+2 Subtraction
+3 Multiplication
+4 Division
+5 Modulo
+6 Reverse Input
+
+2
+The difference of all arguments is : -5
+tejas2@ada:~/CS201/HW4$ ./doMath 15 -20 100
+Choose an option from the menu below:
+
+0 Exit
+1 Addition
+2 Subtraction
+3 Multiplication
+4 Division
+5 Modulo
+6 Reverse Input
+
+3
+The product of all arguments is : -30000
+tejas2@ada:~/CS201/HW4$ ./D[KdoMath 20 25 10
+Choose an option from the menu below:
+
+0 Exit
+1 Addition
+2 Subtraction
+3 Multiplication
+4 Division
+5 Modulo
+6 Reverse Input
+
+4
+The division of the first two arguments is : 0.800000
+tejas2@ada:~/CS201/HW4$ ./doMath 24 3[K4[K5
+Choose an option from the menu below:
+
+0 Exit
+1 Addition
+2 Subtraction
+3 Multiplication
+4 Division
+5 Modulo
+6 Reverse Input
+
+5
+The remainder of the division of the first two arguments is : 4
+tejas2@ada:~/CS201/HW4$ ./DO[K[KdoMath one two three four five six seven eight nine then [K[K[K[Ken eleven twe;[Klve thirteen fourteen fifteen sixteen
+Too many, or no arguments entered. Try again!
+tejas2@ada:~/CS201/HW4$ ./doMath one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen[K[K[K[K[K[K[K[K
+Choose an option from the menu below:
+
+0 Exit
+1 Addition
+2 Subtraction
+3 Multiplication
+4 Division
+5 Modulo
+6 Reverse Input
+
+6
+Here are your arguments reversed: neetfif neetruof neetriht evlewt nevele net enin thgie neves xis evif ruof eerht owt eno 
+tejas2@ada:~/CS201/HW4$ quit
+bash: quit: command not found
+tejas2@ada:~/CS201/HW4$ exit
+exit
+
+Script done on Mon 20 Nov 2017 08:48:30 PM PST
