@@ -1,0 +1,35 @@
+Script started on Thu 05 Oct 2017 06:30:22 AM PDT
+tejas2@ada:~/CS201/HW1$ make[K[K[K[Kls
+Makefile  typescript  typing_word_game.c
+tejas2@ada:~/CS201/HW1$ make
+gcc -Wall -Og -g typing_word_game.c -o typing_word_game
+tejas2@ada:~/CS201/HW1$ ./typingword[K[K[K[K_w*
+This game will test your typing speed. Hit "a\n" to start the timer
+a
+Word: lazy
+Your input: lazy
+Word: The
+Your input: The
+Word: dog
+Your input: dog
+Word: jumps
+Your input: jumps
+Word: the
+Your input: jje re 
+Try again:  er ew 
+Try again: the
+Word: quick
+Your input: quick
+Word: over
+Your input:  er mewrn
+Try again: 2i3u4i32p5 
+Try again: over
+Word: brown
+Your input: b brown
+Word: fox
+Your input: fox
+Time taken: 29 seconds and 195554 usec
+tejas2@ada:~/CS201/HW1$ exit
+exit
+
+Script done on Thu 05 Oct 2017 06:31:29 AM PDT
