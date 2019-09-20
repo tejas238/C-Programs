@@ -1,5 +1,5 @@
 # C-Programs
-Simple programs that explore C language/Systems fundamentals.
+Simple programs that illustrate C language/Systems fundamentals.
 
 ## Typing Word Game
 Test your typing speed on common words. Dynamic allocation tested with valgrind output for run-time objects.
